@@ -15,6 +15,6 @@ I made this repository to post my solutions to Harvard University's 2022 CS50's 
 	- File I/O
 	- Regular Expressions
 	- Object-Oriented Programming
-	- Et Cetera
+	- Final Project
 	
 	
